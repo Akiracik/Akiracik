@@ -22,11 +22,11 @@
 <table align="center" width="100%">
   <tr>
     <td width="55%" valign="top">
-      <p>Yazılım dünyasında karmaşık problemleri optimize etmeye ve temiz mimariler inşa etmeye odaklanmış bir geliştirici. Sistemlerin arka yüzündeki mantıkla ön yüzündeki akışkanlığı birleştirmeyi seviyorum.</p>
+      <p>Sistem otomasyonu, kullanıcı deneyimi ve fonksiyonel araçlar geliştirmeye odaklanan bir yazılımcı. Kodun arka plandaki çalışma mantığı ile ön yüzdeki akışkanlığı birleştirmeyi, bağımsız yapılar inşa etmeyi seviyorum.</p>
       <ul>
-        <li>⚡ <b>Core Focus:</b> Ölçeklenebilir arka uç servisleri ve dinamik web ekosistemleri.</li>
-        <li>🛠 Honor/Task: Custom araçlar, kapalı devre mimariler ve otomasyon sistemleri geliştirmek.</li>
-        <li>🔒 <b>Philosophy:</b> Az laf, çok kaliteli kod. Performans ve gizlilik önceliklidir.</li>
+        <li>💻 <b>Core Focus:</b> Modern web mimarileri, etkileşimli arayüzler ve esnek betik (scripting) sistemleri.</li>
+        <li>🕹️ <b>Specialty:</b> Oyun mekanikleri (Unity), modüler araçlar ve kapalı devre işlevsel projeler.</li>
+        <li>🔒 <b>Philosophy:</b> Temiz kod, akıcı mantık ve bağımsız bir sistem vizyonu.</li>
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
@@ -67,8 +67,6 @@
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white">
-  <!-- Antigravity IDE Özel Badge -->
-  <img src="https://img.shields.io/badge/Antigravity_IDE-111111?style=flat-square&logo=terminal&logoColor=00FF66">
 </p>
 
 ---
