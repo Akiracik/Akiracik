@@ -29,10 +29,6 @@
         <li>🔒 <b>Philosophy:</b> Temiz kod, akıcı mantık ve bağımsız bir sistem vizyonu.</li>
       </ul>
     </td>
-    <td width="45%" valign="top" align="center">
-      <!-- En Çok Kullanılan Diller Kartı -->
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akiracik&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa" width="100%">
-    </td>
   </tr>
 </table>
 
@@ -72,11 +68,6 @@
 ---
 
 ## 📊 Activity Metrics
-
-<!-- Dalga Efektli Katkı Grafiği -->
-<div align="center">
-  <img width="85%" src="https://github-readme-activity-graph.vercel.io/graph?username=Akiracik&theme=react-dark&hide_border=true&bg_color=00000000&color=ffffff">
-</div>
 
 <br>
 
